@@ -40,6 +40,18 @@ a.sh
 ```
 {% endcode %}
 {% endtab %}
+
+{% tab title="tab2" %}
+```
+tab2
+```
+{% endtab %}
+
+{% tab title="tab3" %}
+```
+tab3
+```
+{% endtab %}
 {% endtabs %}
 
 Once you're strong enough, save the world:
