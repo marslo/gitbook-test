@@ -25,7 +25,7 @@ danger
 {% endhint %}
 
 {% hint style="success" %}
-success
+✅ ✍ 🌳 🌴 🌵 🎄 🍄 📧 ‼✔ ✖ ⚕⁉ 🎶 ❗ ❓ ❕ success
 {% endhint %}
 
 {% tabs %}
