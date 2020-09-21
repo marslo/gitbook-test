@@ -1,8 +1,8 @@
 ---
-description: guide
+description: sample
 ---
 
-# guide
+# sample
 
 ## Getting Super Powers
 
@@ -37,15 +37,41 @@ bash
 {% endcode %}
 {% endtab %}
 
-{% tab title="tab2" %}
-```
-tab2
+{% tab title="scheme" %}
+```scheme
+scheme
 ```
 {% endtab %}
 
-{% tab title="tab3" %}
+{% tab title="groovy" %}
+```groovy
+groovy
 ```
-tab3
+{% endtab %}
+
+{% tab title="python" %}
+```python
+python
+```
+{% endtab %}
+
+{% tab title="yaml" %}
+```yaml
+yaml
+```
+{% endtab %}
+
+{% tab title="html" %}
+* item1
+
+```http
+html
+```
+
+* item2
+
+```cpp
+c++
 ```
 {% endtab %}
 {% endtabs %}
