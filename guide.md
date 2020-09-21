@@ -57,6 +57,10 @@ tab3
 * [x] task-1
 * [ ] task-2
 
+| title | title |
+| :--- | :--- |
+| content | content |
+
 Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
