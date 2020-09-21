@@ -54,6 +54,9 @@ tab3
 {% endtab %}
 {% endtabs %}
 
+* [x] task-1
+* [ ] task-2
+
 Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
