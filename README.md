@@ -23,7 +23,17 @@
           <li>it4</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">it1234</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <ul>
+          <li>a</li>
+          <li>b</li>
+          <li>c</li>
+        </ul>
+      </td>
+      <td style="text-align:left">aabbcc</td>
     </tr>
   </tbody>
 </table>
