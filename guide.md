@@ -16,51 +16,6 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-{% hint style="success" %}
-successful
-{% endhint %}
-
-{% hint style="warning" %}
-warning
-{% endhint %}
-
-{% hint style="danger" %}
-danger
-{% endhint %}
-
-{% hint style="info" %}
-info
-{% endhint %}
-
-{% tabs %}
-{% tab title="Bash" %}
-{% code title="a.sh" %}
-```bash
-a.sh
-```
-{% endcode %}
-{% endtab %}
-
-{% tab title="tab2" %}
-```
-tab2
-```
-{% endtab %}
-
-{% tab title="tab3" %}
-```
-tab3
-```
-{% endtab %}
-{% endtabs %}
-
-* [x] task-1
-* [ ] task-2
-
-| title | title |
-| :--- | :--- |
-| content | content |
-
 Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
